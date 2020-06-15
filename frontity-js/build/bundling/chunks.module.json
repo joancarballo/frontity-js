@@ -1,0 +1,89 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.43.0",
+  "hash": "6a71e24b6124fe61ef8a",
+  "publicPath": "/static/",
+  "outputPath": "/Applications/MAMP/htdocs/frontity-js/frontity-js/build/static",
+  "assetsByChunkName": {
+    "frontity-js": [
+      "frontity-js.module.js",
+      "frontity-js.9b7ab33b43e8a2e92029.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "9b7ab33b43e8a2e92029.hot-update.json",
+      "size": 53,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "frontity-js.9b7ab33b43e8a2e92029.hot-update.js",
+      "size": 31595,
+      "chunks": [
+        "frontity-js"
+      ],
+      "chunkNames": [
+        "frontity-js"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "frontity-js.module.js",
+      "size": 4786673,
+      "chunks": [
+        "frontity-js"
+      ],
+      "chunkNames": [
+        "frontity-js"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "frontity-js": {
+      "chunks": [
+        "frontity-js"
+      ],
+      "assets": [
+        "frontity-js.module.js",
+        "frontity-js.9b7ab33b43e8a2e92029.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "frontity-js": {
+      "chunks": [
+        "frontity-js"
+      ],
+      "assets": [
+        "frontity-js.module.js",
+        "frontity-js.9b7ab33b43e8a2e92029.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
