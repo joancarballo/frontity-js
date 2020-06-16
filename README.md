@@ -1,7 +1,7 @@
 # frontity-js
 Joan Carballo's proves site for Frontity Demo from JSNation Workshop directed by Michael Burridge https://twitter.com/michaelburridge
 
-![Frontity image - Joan Carballo](https://repository-images.githubusercontent.com/272520615/0d56b280-afd2-11ea-90a1-bd470d6b1e79)
+![Frontity image - Joan Carballo](https://repository-images.githubusercontent.com/272520615/6410bc00-afd3-11ea-95c9-e0339ecda1bf)
 
 ## How To
 
